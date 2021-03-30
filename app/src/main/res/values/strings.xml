@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="emailhint">Email</string>
+    <string name="passwordhint">Password</string>
+    <string name="confpasswordhint">Confirm Password</string>
+    <string name="fnamehint">First Name</string>
+    <string name="lnamehint">Last Name</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="contactnamehint">Name</string>
+    <string name="phonehint">Phone</string>
+    <string name="newcontact">Create New Contact</string>
+    <string name="submit">Submit</string>
+</resources>

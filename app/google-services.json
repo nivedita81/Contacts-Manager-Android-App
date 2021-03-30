@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2870023834",
+    "firebase_url": "https://contactsmanagerapp.firebaseio.com",
+    "project_id": "contactsmanagerapp",
+    "storage_bucket": "contactsmanagerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2870023834:android:a18d5bca31edd473873123",
+        "android_client_info": {
+          "package_name": "com.example.group8_inclass12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2870023834-tius0epd3qho8b7q8kg6nt7kkrtihle2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSCDU2ltthGuewkkub-tg-z08Me-F_Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2870023834-tius0epd3qho8b7q8kg6nt7kkrtihle2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
